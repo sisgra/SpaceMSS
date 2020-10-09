@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252521307028",
+    "firebase_url": "https://spacemss-ef415.firebaseio.com",
+    "project_id": "spacemss-ef415",
+    "storage_bucket": "spacemss-ef415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252521307028:android:8c3ec669482d6a61858d81",
+        "android_client_info": {
+          "package_name": "com.example.spacemss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252521307028-hjsf5gkvnl09kuav31qtf105hokq750f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd1j7An8B3EtQnPrvLOehDVPUwsdfwjek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252521307028-hjsf5gkvnl09kuav31qtf105hokq750f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
